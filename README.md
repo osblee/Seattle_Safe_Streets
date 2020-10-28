@@ -1,6 +1,14 @@
 # Seattle Safe Streets
 Welcome to the README file of Seattle Safe Streets. This program envisions to provide users with ideas on how to live on the streets of Seattle safely by giving interactive graphics such as a map that contains all incidents in Seattle or one that provides incidents that happened nearby a given street. This program also creates two interactive graphs that display different trends of types and their count categoriazed by month. Additionally, this program can predict the incident type of a dial given the month and street inputted. This program also statistically analyzes the data and provides a confidence interval on the proportion of cases that happen in the Spring vs Fall in order to solidify our visual and predictive results. This file explains step by step on how to successfully run this program and to start improving your welbeing.
 
+## Authors
+
+Yukito Shida
+
+Osbert Lee
+
+Yui Suzuki
+
 ## Getting started
 This program employs a multitude of external libraries and thus, requires installation of said libraries to run properly.
 
@@ -81,13 +89,6 @@ Our program requires specific street names to operate. Please try example street
 
 *All inputs for our program are case sensitive and should be typed with care.*  
 
-## Authors
-
-Yukito Shida
-
-Osbert Lee
-
-Yui Suzuki
 
 
 ## Acknowledgements
